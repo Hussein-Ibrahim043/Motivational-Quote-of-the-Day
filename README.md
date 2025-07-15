@@ -51,7 +51,7 @@ source ~/.bashrc
 ---
 
 ## 📸 Example Output
-<img width="438" height="161" alt="image" src="https://github.com/user-attachments/assets/a4eee242-0110-440c-9a20-676469b9ec32" />
+<img width="441" height="163" alt="image" src="https://github.com/user-attachments/assets/c0616eae-9b45-4618-92cc-7291a59ce62e" />
 
 ```bash
 ┌─────────────────────────────────────────────┐
