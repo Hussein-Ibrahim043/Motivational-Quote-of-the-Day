@@ -16,7 +16,7 @@ A simple Bash tool that displays a random motivational quote in your terminal. P
 
 ---
 
-## 📆 Installation
+## 🏗️ Installation
 
 **Clone the repo:**
 ```bash
