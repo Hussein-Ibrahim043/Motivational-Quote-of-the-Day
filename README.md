@@ -39,9 +39,8 @@ chmod +x quote_of_the_day.sh
 To see a quote every time you open the terminal, add this line to your 
 ```bash
 ~/.bashrc or ~/.zshrc:
-
-/path/to/motiquote/quote_of_the_day.sh
 ```
+/path/to/motiquote/quote_of_the_day.sh
 
 **Then apply changes:**
 
@@ -83,8 +82,8 @@ motiquote/
 
 ## Author
 
-- 💻 GitHub (https://github.com/Hussein-Ibrahim043)
-- LinkedIn (https://linkedin.com/in/hussein-ibrahim043)
+GitHub (https://github.com/Hussein-Ibrahim043)
+LinkedIn (https://linkedin.com/in/hussein-ibrahim043)
 
 ---
 
