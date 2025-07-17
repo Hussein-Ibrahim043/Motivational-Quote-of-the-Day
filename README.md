@@ -20,7 +20,7 @@ A simple Bash tool that displays a random motivational quote in your terminal. P
 
 **Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/motiquote.git
+git clone https://github.com/Hussein-Ibrahim043/Motivational-Quote-of-the-Day.git
 cd motiquote
 ```
 
